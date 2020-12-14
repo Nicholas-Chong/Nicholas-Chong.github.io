@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+body {
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 10vh;
+    font-family: 'Langar';
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+      padding-top: 5vh;
+  }
+}

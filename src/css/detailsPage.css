@@ -1,0 +1,6 @@
+.pageTitle {
+  font-size: large;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-color: rgb(69, 123, 157);
+}
