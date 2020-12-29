@@ -6,6 +6,7 @@ class SiteTitle extends React.Component {
   render() {
     return (
       <div class='titleContainer content'>
+        <img class='profilePic' src='android-chrome-512x512.png' />
         <h1>Nicholas Chong</h1>
         <h2>
           <Textloop 
