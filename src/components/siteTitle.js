@@ -14,6 +14,20 @@ class SiteTitle extends React.Component {
             interval={2000}
           />
         </h2>
+        <div class="socialsContainer">
+          <a 
+            href="https://github.com/Nicholas-Chong/" 
+            target="_blank" rel="noreferrer" 
+            style={{color: "black"}}>
+            <i class="bx bxl-github"/>
+          </a>
+          <a 
+            href="https://www.linkedin.com/in/nicholas-chong-/" 
+            target="_blank" rel="noreferrer" 
+            style={{color: "black"}}>
+            <i class='bx bxl-linkedin-square'/>
+          </a>
+        </div>
       </div>
     )
   }
